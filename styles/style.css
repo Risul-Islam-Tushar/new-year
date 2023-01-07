@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-size: 10px;
+}
+
+
+                     /* banner one  */
+
+
+.banner-one{
+    background-size: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url(../images/banner/banner1.png);
+    text-align: right;
+}
+.on{
+   padding: 200px;
+   margin-left: 500px;
+   font-size: 18px;
+   font-weight: 80;
+}
+.btn{
+  background-color: chocolate;
+  margin-left: 200px;
+  border: none;
+  height: 40px;
+  color: #FFFFFF;
+  margin-top: 15px;
+
+}
+
+
+              /* person section */
+
+
+.person-sec{
+margin-top: 200px;
+    padding: 0 150px;
+    display: flex
+    
+
+}
+.title{
+ margin-top: 250px;
+ margin-left: 150px;
+ margin-right: 60px;
+ font-size: 20px;
+}
+.banner-three{
+    padding: 200px;
+    text-align: center;
+
+}
+
+
+                    /* baner-three */
+
+
+.plan-container{
+    display: flex;
+margin-left: 110px;
+margin-top: 20px;
+
+
+}
+.plan-header{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.plan-sec{
+    margin: 10px 30px;
+}
+
+
+                 /* Banner four */
+
+
+.banner-four{
+    background-image: url(../images/gradient1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 300px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.four-content{
+    padding-top: 30px;
+    margin-left: 60px;
+    /* margin-bottom: 10px; */
+}
+.btn-two{
+    margin-left: 60px;
+    background-color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    margin-top: 10px;
+}
+                    /* footer */
+footer{
+    position: absolute
+    height: auto;
+    background-color: black;
+    height: 300px;
+    padding-top: 150px; 
+    
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: #FFFFFF;
+    
+    
+
+}
+.footer-one{
+    margin-right: 300px;
+}
+.btn-three{
+    background-color: white;
+    height: 30px;
+    width: 80px;
+    margin-top: 10px;
+    color: chocolate;
+    font-size: 11px;
+    border:blue;
+}
+.icon{
+    padding-top: 13px;
+    gap: 30px;
+}
+
+ 
+    
